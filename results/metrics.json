@@ -1,0 +1,874 @@
+{
+  "dataset": "Real BorealTC recordings; no synthetic data",
+  "seed": 42,
+  "selected_model": "cnn_features",
+  "selection_rule": "Highest validation macro-F1 among SVM, CNN, CNN+features",
+  "epochs_limit": 60,
+  "elapsed_seconds": 82.27901768684387,
+  "data_summary": {
+    "dataset": "BorealTC",
+    "seed": 42,
+    "sample_rate_hz": 100,
+    "window_samples": 170,
+    "channels": [
+      "wx",
+      "wy",
+      "wz",
+      "ax",
+      "ay",
+      "az",
+      "curL",
+      "curR",
+      "velL",
+      "velR"
+    ],
+    "classes": [
+      "ASPHALT",
+      "FLOORING",
+      "ICE",
+      "SANDY_LOAM",
+      "SNOW"
+    ],
+    "windows": 4155,
+    "recordings": 71,
+    "class_counts": {
+      "train": {
+        "ASPHALT": 275,
+        "FLOORING": 617,
+        "ICE": 1049,
+        "SANDY_LOAM": 211,
+        "SNOW": 502
+      },
+      "val": {
+        "ASPHALT": 5,
+        "FLOORING": 259,
+        "ICE": 67,
+        "SANDY_LOAM": 83,
+        "SNOW": 157
+      },
+      "test": {
+        "ASPHALT": 51,
+        "FLOORING": 378,
+        "ICE": 221,
+        "SANDY_LOAM": 87,
+        "SNOW": 193
+      }
+    },
+    "records": [
+      {
+        "run": "ASPHALT/00",
+        "split": "train",
+        "rows": 5185,
+        "windows": 30
+      },
+      {
+        "run": "ASPHALT/01",
+        "split": "train",
+        "rows": 25616,
+        "windows": 150
+      },
+      {
+        "run": "ASPHALT/02",
+        "split": "val",
+        "rows": 950,
+        "windows": 5
+      },
+      {
+        "run": "ASPHALT/03",
+        "split": "test",
+        "rows": 8784,
+        "windows": 51
+      },
+      {
+        "run": "ASPHALT/04",
+        "split": "train",
+        "rows": 4954,
+        "windows": 29
+      },
+      {
+        "run": "ASPHALT/05",
+        "split": "train",
+        "rows": 7306,
+        "windows": 42
+      },
+      {
+        "run": "ASPHALT/06",
+        "split": "train",
+        "rows": 4092,
+        "windows": 24
+      },
+      {
+        "run": "FLOORING/00",
+        "split": "train",
+        "rows": 25915,
+        "windows": 152
+      },
+      {
+        "run": "FLOORING/01",
+        "split": "train",
+        "rows": 1979,
+        "windows": 11
+      },
+      {
+        "run": "FLOORING/02",
+        "split": "val",
+        "rows": 2507,
+        "windows": 14
+      },
+      {
+        "run": "FLOORING/03",
+        "split": "train",
+        "rows": 21601,
+        "windows": 127
+      },
+      {
+        "run": "FLOORING/04",
+        "split": "val",
+        "rows": 41667,
+        "windows": 245
+      },
+      {
+        "run": "FLOORING/05",
+        "split": "train",
+        "rows": 27739,
+        "windows": 163
+      },
+      {
+        "run": "FLOORING/06",
+        "split": "test",
+        "rows": 62149,
+        "windows": 365
+      },
+      {
+        "run": "FLOORING/07",
+        "split": "train",
+        "rows": 15262,
+        "windows": 89
+      },
+      {
+        "run": "FLOORING/08",
+        "split": "test",
+        "rows": 2242,
+        "windows": 13
+      },
+      {
+        "run": "FLOORING/09",
+        "split": "train",
+        "rows": 12867,
+        "windows": 75
+      },
+      {
+        "run": "ICE/00",
+        "split": "test",
+        "rows": 24452,
+        "windows": 143
+      },
+      {
+        "run": "ICE/01",
+        "split": "train",
+        "rows": 142987,
+        "windows": 841
+      },
+      {
+        "run": "ICE/02",
+        "split": "val",
+        "rows": 5571,
+        "windows": 32
+      },
+      {
+        "run": "ICE/03",
+        "split": "val",
+        "rows": 4293,
+        "windows": 25
+      },
+      {
+        "run": "ICE/04",
+        "split": "val",
+        "rows": 1785,
+        "windows": 10
+      },
+      {
+        "run": "ICE/05",
+        "split": "train",
+        "rows": 5949,
+        "windows": 34
+      },
+      {
+        "run": "ICE/06",
+        "split": "train",
+        "rows": 9124,
+        "windows": 53
+      },
+      {
+        "run": "ICE/07",
+        "split": "test",
+        "rows": 1867,
+        "windows": 10
+      },
+      {
+        "run": "ICE/08",
+        "split": "test",
+        "rows": 11611,
+        "windows": 68
+      },
+      {
+        "run": "ICE/09",
+        "split": "train",
+        "rows": 2385,
+        "windows": 14
+      },
+      {
+        "run": "ICE/10",
+        "split": "train",
+        "rows": 13401,
+        "windows": 78
+      },
+      {
+        "run": "ICE/11",
+        "split": "train",
+        "rows": 1647,
+        "windows": 9
+      },
+      {
+        "run": "ICE/12",
+        "split": "train",
+        "rows": 3462,
+        "windows": 20
+      },
+      {
+        "run": "SANDY_LOAM/00",
+        "split": "train",
+        "rows": 942,
+        "windows": 5
+      },
+      {
+        "run": "SANDY_LOAM/01",
+        "split": "val",
+        "rows": 5047,
+        "windows": 29
+      },
+      {
+        "run": "SANDY_LOAM/02",
+        "split": "test",
+        "rows": 4079,
+        "windows": 23
+      },
+      {
+        "run": "SANDY_LOAM/03",
+        "split": "train",
+        "rows": 3963,
+        "windows": 23
+      },
+      {
+        "run": "SANDY_LOAM/04",
+        "split": "val",
+        "rows": 5035,
+        "windows": 29
+      },
+      {
+        "run": "SANDY_LOAM/05",
+        "split": "train",
+        "rows": 4211,
+        "windows": 24
+      },
+      {
+        "run": "SANDY_LOAM/06",
+        "split": "train",
+        "rows": 5592,
+        "windows": 32
+      },
+      {
+        "run": "SANDY_LOAM/07",
+        "split": "train",
+        "rows": 4897,
+        "windows": 28
+      },
+      {
+        "run": "SANDY_LOAM/08",
+        "split": "val",
+        "rows": 4381,
+        "windows": 25
+      },
+      {
+        "run": "SANDY_LOAM/09",
+        "split": "test",
+        "rows": 2138,
+        "windows": 12
+      },
+      {
+        "run": "SANDY_LOAM/10",
+        "split": "test",
+        "rows": 8855,
+        "windows": 52
+      },
+      {
+        "run": "SANDY_LOAM/11",
+        "split": "train",
+        "rows": 4591,
+        "windows": 27
+      },
+      {
+        "run": "SANDY_LOAM/12",
+        "split": "train",
+        "rows": 6570,
+        "windows": 38
+      },
+      {
+        "run": "SANDY_LOAM/13",
+        "split": "train",
+        "rows": 5831,
+        "windows": 34
+      },
+      {
+        "run": "SNOW/00",
+        "split": "train",
+        "rows": 2324,
+        "windows": 13
+      },
+      {
+        "run": "SNOW/01",
+        "split": "train",
+        "rows": 3333,
+        "windows": 19
+      },
+      {
+        "run": "SNOW/02",
+        "split": "train",
+        "rows": 3730,
+        "windows": 21
+      },
+      {
+        "run": "SNOW/03",
+        "split": "train",
+        "rows": 3493,
+        "windows": 20
+      },
+      {
+        "run": "SNOW/04",
+        "split": "train",
+        "rows": 2170,
+        "windows": 12
+      },
+      {
+        "run": "SNOW/05",
+        "split": "train",
+        "rows": 5585,
+        "windows": 32
+      },
+      {
+        "run": "SNOW/06",
+        "split": "val",
+        "rows": 10170,
+        "windows": 59
+      },
+      {
+        "run": "SNOW/07",
+        "split": "test",
+        "rows": 5462,
+        "windows": 32
+      },
+      {
+        "run": "SNOW/08",
+        "split": "val",
+        "rows": 2201,
+        "windows": 12
+      },
+      {
+        "run": "SNOW/09",
+        "split": "train",
+        "rows": 2416,
+        "windows": 14
+      },
+      {
+        "run": "SNOW/10",
+        "split": "test",
+        "rows": 8554,
+        "windows": 50
+      },
+      {
+        "run": "SNOW/11",
+        "split": "train",
+        "rows": 9338,
+        "windows": 54
+      },
+      {
+        "run": "SNOW/12",
+        "split": "val",
+        "rows": 2565,
+        "windows": 15
+      },
+      {
+        "run": "SNOW/13",
+        "split": "test",
+        "rows": 7050,
+        "windows": 41
+      },
+      {
+        "run": "SNOW/14",
+        "split": "train",
+        "rows": 8737,
+        "windows": 51
+      },
+      {
+        "run": "SNOW/15",
+        "split": "train",
+        "rows": 9148,
+        "windows": 53
+      },
+      {
+        "run": "SNOW/16",
+        "split": "train",
+        "rows": 4601,
+        "windows": 27
+      },
+      {
+        "run": "SNOW/17",
+        "split": "val",
+        "rows": 6800,
+        "windows": 40
+      },
+      {
+        "run": "SNOW/18",
+        "split": "test",
+        "rows": 5020,
+        "windows": 29
+      },
+      {
+        "run": "SNOW/19",
+        "split": "train",
+        "rows": 6401,
+        "windows": 37
+      },
+      {
+        "run": "SNOW/20",
+        "split": "train",
+        "rows": 4925,
+        "windows": 28
+      },
+      {
+        "run": "SNOW/21",
+        "split": "train",
+        "rows": 5340,
+        "windows": 31
+      },
+      {
+        "run": "SNOW/22",
+        "split": "train",
+        "rows": 6016,
+        "windows": 35
+      },
+      {
+        "run": "SNOW/23",
+        "split": "train",
+        "rows": 4317,
+        "windows": 25
+      },
+      {
+        "run": "SNOW/24",
+        "split": "train",
+        "rows": 5147,
+        "windows": 30
+      },
+      {
+        "run": "SNOW/25",
+        "split": "val",
+        "rows": 5336,
+        "windows": 31
+      },
+      {
+        "run": "SNOW/26",
+        "split": "test",
+        "rows": 6999,
+        "windows": 41
+      }
+    ]
+  },
+  "models": {
+    "majority": {
+      "validation": {
+        "accuracy": 0.11733800350262696,
+        "balanced_accuracy": 0.2,
+        "macro_f1": 0.04200626959247649
+      },
+      "test": {
+        "accuracy": 0.23763440860215054,
+        "balanced_accuracy": 0.2,
+        "macro_f1": 0.07680278019113815
+      },
+      "classification_report": {
+        "ASPHALT": {
+          "precision": 0.0,
+          "recall": 0.0,
+          "f1-score": 0.0,
+          "support": 51.0
+        },
+        "FLOORING": {
+          "precision": 0.0,
+          "recall": 0.0,
+          "f1-score": 0.0,
+          "support": 378.0
+        },
+        "ICE": {
+          "precision": 0.23763440860215054,
+          "recall": 1.0,
+          "f1-score": 0.3840139009556907,
+          "support": 221.0
+        },
+        "SANDY_LOAM": {
+          "precision": 0.0,
+          "recall": 0.0,
+          "f1-score": 0.0,
+          "support": 87.0
+        },
+        "SNOW": {
+          "precision": 0.0,
+          "recall": 0.0,
+          "f1-score": 0.0,
+          "support": 193.0
+        },
+        "accuracy": 0.23763440860215054,
+        "macro avg": {
+          "precision": 0.04752688172043011,
+          "recall": 0.2,
+          "f1-score": 0.07680278019113815,
+          "support": 930.0
+        },
+        "weighted avg": {
+          "precision": 0.056470112151693834,
+          "recall": 0.23763440860215054,
+          "f1-score": 0.09125491624861037,
+          "support": 930.0
+        }
+      },
+      "confusion_matrix": [
+        [
+          0,
+          0,
+          51,
+          0,
+          0
+        ],
+        [
+          0,
+          0,
+          378,
+          0,
+          0
+        ],
+        [
+          0,
+          0,
+          221,
+          0,
+          0
+        ],
+        [
+          0,
+          0,
+          87,
+          0,
+          0
+        ],
+        [
+          0,
+          0,
+          193,
+          0,
+          0
+        ]
+      ]
+    },
+    "svm": {
+      "validation": {
+        "accuracy": 0.8038528896672504,
+        "balanced_accuracy": 0.802278279063809,
+        "macro_f1": 0.6881364789562482
+      },
+      "test": {
+        "accuracy": 0.8408602150537634,
+        "balanced_accuracy": 0.8254789560762298,
+        "macro_f1": 0.8166934755935399
+      },
+      "classification_report": {
+        "ASPHALT": {
+          "precision": 0.581081081081081,
+          "recall": 0.8431372549019608,
+          "f1-score": 0.688,
+          "support": 51.0
+        },
+        "FLOORING": {
+          "precision": 0.8368794326241135,
+          "recall": 0.9365079365079365,
+          "f1-score": 0.8838951310861424,
+          "support": 378.0
+        },
+        "ICE": {
+          "precision": 0.8613861386138614,
+          "recall": 0.7873303167420814,
+          "f1-score": 0.8226950354609929,
+          "support": 221.0
+        },
+        "SANDY_LOAM": {
+          "precision": 0.9487179487179487,
+          "recall": 0.8505747126436781,
+          "f1-score": 0.896969696969697,
+          "support": 87.0
+        },
+        "SNOW": {
+          "precision": 0.8954248366013072,
+          "recall": 0.7098445595854922,
+          "f1-score": 0.791907514450867,
+          "support": 193.0
+        },
+        "accuracy": 0.8408602150537634,
+        "macro avg": {
+          "precision": 0.8246978875276625,
+          "recall": 0.8254789560762298,
+          "f1-score": 0.8166934755935399,
+          "support": 930.0
+        },
+        "weighted avg": {
+          "precision": 0.8512874755948681,
+          "recall": 0.8408602150537634,
+          "f1-score": 0.8407424476481958,
+          "support": 930.0
+        }
+      },
+      "confusion_matrix": [
+        [
+          43,
+          1,
+          6,
+          0,
+          1
+        ],
+        [
+          11,
+          354,
+          3,
+          2,
+          8
+        ],
+        [
+          0,
+          44,
+          174,
+          0,
+          3
+        ],
+        [
+          4,
+          5,
+          0,
+          74,
+          4
+        ],
+        [
+          16,
+          19,
+          19,
+          2,
+          137
+        ]
+      ]
+    },
+    "cnn": {
+      "validation": {
+        "accuracy": 0.8161120840630472,
+        "balanced_accuracy": 0.776864871692888,
+        "macro_f1": 0.6900283508967593
+      },
+      "test": {
+        "accuracy": 0.7956989247311828,
+        "balanced_accuracy": 0.8055359600872427,
+        "macro_f1": 0.7697294334803967
+      },
+      "classification_report": {
+        "ASPHALT": {
+          "precision": 0.42727272727272725,
+          "recall": 0.9215686274509803,
+          "f1-score": 0.5838509316770186,
+          "support": 51.0
+        },
+        "FLOORING": {
+          "precision": 0.8374384236453202,
+          "recall": 0.8994708994708994,
+          "f1-score": 0.8673469387755102,
+          "support": 378.0
+        },
+        "ICE": {
+          "precision": 0.8066298342541437,
+          "recall": 0.6606334841628959,
+          "f1-score": 0.7263681592039801,
+          "support": 221.0
+        },
+        "SANDY_LOAM": {
+          "precision": 0.974025974025974,
+          "recall": 0.8620689655172413,
+          "f1-score": 0.9146341463414634,
+          "support": 87.0
+        },
+        "SNOW": {
+          "precision": 0.8461538461538461,
+          "recall": 0.6839378238341969,
+          "f1-score": 0.7564469914040115,
+          "support": 193.0
+        },
+        "accuracy": 0.7956989247311828,
+        "macro avg": {
+          "precision": 0.7783041610704022,
+          "recall": 0.8055359600872427,
+          "f1-score": 0.7697294334803967,
+          "support": 930.0
+        },
+        "weighted avg": {
+          "precision": 0.8222105146741482,
+          "recall": 0.7956989247311828,
+          "f1-score": 0.7997078963757333,
+          "support": 930.0
+        }
+      },
+      "confusion_matrix": [
+        [
+          47,
+          1,
+          3,
+          0,
+          0
+        ],
+        [
+          8,
+          340,
+          21,
+          0,
+          9
+        ],
+        [
+          1,
+          63,
+          146,
+          0,
+          11
+        ],
+        [
+          8,
+          0,
+          0,
+          75,
+          4
+        ],
+        [
+          46,
+          2,
+          11,
+          2,
+          132
+        ]
+      ],
+      "best_epoch": 26
+    },
+    "cnn_features": {
+      "validation": {
+        "accuracy": 0.8231173380035026,
+        "balanced_accuracy": 0.7974040871370202,
+        "macro_f1": 0.7255702514085522
+      },
+      "test": {
+        "accuracy": 0.8634408602150537,
+        "balanced_accuracy": 0.8606662528521927,
+        "macro_f1": 0.8454988125352372
+      },
+      "classification_report": {
+        "ASPHALT": {
+          "precision": 0.6571428571428571,
+          "recall": 0.9019607843137255,
+          "f1-score": 0.7603305785123967,
+          "support": 51.0
+        },
+        "FLOORING": {
+          "precision": 0.889168765743073,
+          "recall": 0.9338624338624338,
+          "f1-score": 0.9109677419354839,
+          "support": 378.0
+        },
+        "ICE": {
+          "precision": 0.8780487804878049,
+          "recall": 0.8144796380090498,
+          "f1-score": 0.8450704225352113,
+          "support": 221.0
+        },
+        "SANDY_LOAM": {
+          "precision": 0.9397590361445783,
+          "recall": 0.896551724137931,
+          "f1-score": 0.9176470588235294,
+          "support": 87.0
+        },
+        "SNOW": {
+          "precision": 0.8342857142857143,
+          "recall": 0.7564766839378239,
+          "f1-score": 0.7934782608695652,
+          "support": 193.0
+        },
+        "accuracy": 0.8634408602150537,
+        "macro avg": {
+          "precision": 0.8396810307608055,
+          "recall": 0.8606662528521927,
+          "f1-score": 0.8454988125352372,
+          "support": 930.0
+        },
+        "weighted avg": {
+          "precision": 0.8671452028545091,
+          "recall": 0.8634408602150537,
+          "f1-score": 0.8632901374209678,
+          "support": 930.0
+        }
+      },
+      "confusion_matrix": [
+        [
+          46,
+          1,
+          3,
+          0,
+          1
+        ],
+        [
+          3,
+          353,
+          1,
+          1,
+          20
+        ],
+        [
+          0,
+          35,
+          180,
+          0,
+          6
+        ],
+        [
+          4,
+          3,
+          0,
+          78,
+          2
+        ],
+        [
+          17,
+          5,
+          21,
+          4,
+          146
+        ]
+      ],
+      "best_epoch": 39
+    }
+  },
+  "versions": {
+    "numpy": "2.3.5",
+    "pandas": "2.3.3",
+    "torch": "2.11.0",
+    "scikit-learn": "1.7.2",
+    "streamlit": "1.51.0"
+  },
+  "python": "3.13.9"
+}

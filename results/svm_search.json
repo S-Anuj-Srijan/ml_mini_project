@@ -1,0 +1,42 @@
+[
+  {
+    "C": 0.1,
+    "gamma": "scale",
+    "validation_macro_f1": 0.5128834728117676
+  },
+  {
+    "C": 0.1,
+    "gamma": 0.01,
+    "validation_macro_f1": 0.5184185906554328
+  },
+  {
+    "C": 1,
+    "gamma": "scale",
+    "validation_macro_f1": 0.5769688884268644
+  },
+  {
+    "C": 1,
+    "gamma": 0.01,
+    "validation_macro_f1": 0.5833555077417836
+  },
+  {
+    "C": 10,
+    "gamma": "scale",
+    "validation_macro_f1": 0.6760684327655619
+  },
+  {
+    "C": 10,
+    "gamma": 0.01,
+    "validation_macro_f1": 0.6397983557925813
+  },
+  {
+    "C": 100,
+    "gamma": "scale",
+    "validation_macro_f1": 0.6881364789562482
+  },
+  {
+    "C": 100,
+    "gamma": 0.01,
+    "validation_macro_f1": 0.6654263943042632
+  }
+]
