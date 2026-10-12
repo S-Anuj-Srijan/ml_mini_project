@@ -1,0 +1,2 @@
+# Exact direct dependencies used to train the included models.
+-r requirements-tested.txt
