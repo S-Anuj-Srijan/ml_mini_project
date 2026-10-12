@@ -1,0 +1,1302 @@
+{
+  "repository": "https://github.com/norlab-ulaval/BorealTC",
+  "revision": "0146dcd9fa08c34a9075a80448ac04c0a947b568",
+  "files": [
+    {
+      "path": "data/borealtc/ASPHALT/imu_00.csv",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "8ad874e7f6b899313de9fc169a90611dc7c17e70",
+      "size": 633777,
+      "url": "https://api.github.com/repos/norlab-ulaval/BorealTC/git/blobs/8ad874e7f6b899313de9fc169a90611dc7c17e70",
+      "sha256": "d03235a59a2fe86b8a3a31f1080834b818fd4920bde6b177f2042486bad38c27"
+    },
+    {
+      "path": "data/borealtc/ASPHALT/imu_01.csv",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "d91916a8cdb456d07dda0bde7a43daf68bde54bf",
+      "size": 3147416,
+      "url": "https://api.github.com/repos/norlab-ulaval/BorealTC/git/blobs/d91916a8cdb456d07dda0bde7a43daf68bde54bf",
+      "sha256": "6383b4538c034bf7b25e8a8e7da95de0f008c800180dc31863e3a81f4c6480ba"
+    },
+    {
+      "path": "data/borealtc/ASPHALT/imu_02.csv",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "19d5ed34fb63026746f058cc49f42ebdc64db9a7",
+      "size": 115169,
+      "url": "https://api.github.com/repos/norlab-ulaval/BorealTC/git/blobs/19d5ed34fb63026746f058cc49f42ebdc64db9a7",
+      "sha256": "3ff77d43f438144cfa0ae26a66d7830e45efc6bdac575a25a5f802b078f218f7"
+    },
+    {
+      "path": "data/borealtc/ASPHALT/imu_03.csv",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "97b304adf6e8b827b4d9e434c89a2dca278fecec",
+      "size": 1072337,
+      "url": "https://api.github.com/repos/norlab-ulaval/BorealTC/git/blobs/97b304adf6e8b827b4d9e434c89a2dca278fecec",
+      "sha256": "e1a18e7a55f4728d4fdcafcc13fa637823cf34c5e0a18c0b14b9454542599063"
+    },
+    {
+      "path": "data/borealtc/ASPHALT/imu_04.csv",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "92e3560a762125d9a81ddcb49f5734f9b5c7c0b6",
+      "size": 618005,
+      "url": "https://api.github.com/repos/norlab-ulaval/BorealTC/git/blobs/92e3560a762125d9a81ddcb49f5734f9b5c7c0b6",
+      "sha256": "f86533cee45c4065e82895abee4c30e8c50c918507c5668304abc87ff49a5b29"
+    },
+    {
+      "path": "data/borealtc/ASPHALT/imu_05.csv",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "72deb8d5630c980901a3449ac5dec5ed98e27c1c",
+      "size": 890840,
+      "url": "https://api.github.com/repos/norlab-ulaval/BorealTC/git/blobs/72deb8d5630c980901a3449ac5dec5ed98e27c1c",
+      "sha256": "ed8142bed6248797eefb9453042b6879a8a82cd39ee51e16e9b60db77cc758c8"
+    },
+    {
+      "path": "data/borealtc/ASPHALT/imu_06.csv",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "9b9d4024912b3dfe4329dfffbdf1d6a37ab2397f",
+      "size": 498303,
+      "url": "https://api.github.com/repos/norlab-ulaval/BorealTC/git/blobs/9b9d4024912b3dfe4329dfffbdf1d6a37ab2397f",
+      "sha256": "2e2ce4f730c6d3b853f5f6dba3592afc675835cd299ae8f67df73e65f5061489"
+    },
+    {
+      "path": "data/borealtc/ASPHALT/pro_00.csv",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "4e41942abdf871e256f155c4341d9e29ac851541",
+      "size": 22116,
+      "url": "https://api.github.com/repos/norlab-ulaval/BorealTC/git/blobs/4e41942abdf871e256f155c4341d9e29ac851541",
+      "sha256": "8eb7e72399bad281a7e3cefc03b512e3162ec672c7e769e1b1edc9b4473f634b"
+    },
+    {
+      "path": "data/borealtc/ASPHALT/pro_01.csv",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "01e22a52a3929762db884a54239d2c01048db609",
+      "size": 107479,
+      "url": "https://api.github.com/repos/norlab-ulaval/BorealTC/git/blobs/01e22a52a3929762db884a54239d2c01048db609",
+      "sha256": "87b4b9c65830d5b49b214089ee48c1bcff98a3d85a1ec6652640d9c4fe9df8db"
+    },
+    {
+      "path": "data/borealtc/ASPHALT/pro_02.csv",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "d57c8284103085f7fa870e817ff87a8027b756be",
+      "size": 4247,
+      "url": "https://api.github.com/repos/norlab-ulaval/BorealTC/git/blobs/d57c8284103085f7fa870e817ff87a8027b756be",
+      "sha256": "39de0fb71629598ef89b0876b781067036f63f72adf0a80ddc36e94034cdbe3e"
+    },
+    {
+      "path": "data/borealtc/ASPHALT/pro_03.csv",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "435bed331fd9462ea7d722312293d96bef713eaf",
+      "size": 36937,
+      "url": "https://api.github.com/repos/norlab-ulaval/BorealTC/git/blobs/435bed331fd9462ea7d722312293d96bef713eaf",
+      "sha256": "c077cd8c858e2a98b3362dce941f6bf670f7f2c885a56fe96fc0ba8bb97d7b4f"
+    },
+    {
+      "path": "data/borealtc/ASPHALT/pro_04.csv",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "284ce8471315da94ca62bdeeefc25eefcaf52cbb",
+      "size": 21132,
+      "url": "https://api.github.com/repos/norlab-ulaval/BorealTC/git/blobs/284ce8471315da94ca62bdeeefc25eefcaf52cbb",
+      "sha256": "d9de5af823e2d7930e2d1565a3cb0fa437613145a5a8e89d2bbb42f9ae7b2c50"
+    },
+    {
+      "path": "data/borealtc/ASPHALT/pro_05.csv",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "1ff8a5ef1e4a918069e9b1e816500b7cab96d1b6",
+      "size": 31024,
+      "url": "https://api.github.com/repos/norlab-ulaval/BorealTC/git/blobs/1ff8a5ef1e4a918069e9b1e816500b7cab96d1b6",
+      "sha256": "bf54c625daed2f8b6f4088fdb033e07a39ab06acc00423ad7ee700198f3b4662"
+    },
+    {
+      "path": "data/borealtc/ASPHALT/pro_06.csv",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "e5c41f7de3c4c901d222b58e7f4d9b4dc882c132",
+      "size": 17684,
+      "url": "https://api.github.com/repos/norlab-ulaval/BorealTC/git/blobs/e5c41f7de3c4c901d222b58e7f4d9b4dc882c132",
+      "sha256": "5aa3662f68b6e9dca4befa70fb0f761eb3cc38fc776ed0cff60bff3a1a6ad97c"
+    },
+    {
+      "path": "data/borealtc/FLOORING/imu_00.csv",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "702d233ddd683efa39f25412120e02f7045a7320",
+      "size": 3188350,
+      "url": "https://api.github.com/repos/norlab-ulaval/BorealTC/git/blobs/702d233ddd683efa39f25412120e02f7045a7320",
+      "sha256": "00ffcd3cf3a4ea86c05d33fcf473665f18cce0799720b9cecf99107fc274d511"
+    },
+    {
+      "path": "data/borealtc/FLOORING/imu_01.csv",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "a3a43c2065c356da157d5edc6eb007ab5b7fbb23",
+      "size": 241559,
+      "url": "https://api.github.com/repos/norlab-ulaval/BorealTC/git/blobs/a3a43c2065c356da157d5edc6eb007ab5b7fbb23",
+      "sha256": "d964308b80eceae3b795318dd7dcd0e67d38319ec64586e5c5f2994da90527c8"
+    },
+    {
+      "path": "data/borealtc/FLOORING/imu_02.csv",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "604a5ff919790c111a12ec9fca350025b881ff7b",
+      "size": 306471,
+      "url": "https://api.github.com/repos/norlab-ulaval/BorealTC/git/blobs/604a5ff919790c111a12ec9fca350025b881ff7b",
+      "sha256": "49ec408f0648ec1efcb9ad337731dde3158c19c377a4745d96aa890dc668cfd2"
+    },
+    {
+      "path": "data/borealtc/FLOORING/imu_03.csv",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "2a22be6ec33fcd6d2fa1e6817fbd85cccaa0e7c1",
+      "size": 2671165,
+      "url": "https://api.github.com/repos/norlab-ulaval/BorealTC/git/blobs/2a22be6ec33fcd6d2fa1e6817fbd85cccaa0e7c1",
+      "sha256": "3581bef4d3231e96915f869440bb8fdd9f3b14f74f2cefedc7fb2d8789bc1564"
+    },
+    {
+      "path": "data/borealtc/FLOORING/imu_04.csv",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "9d76be6990f2122929bbacd16f834f8769f99c5f",
+      "size": 5128188,
+      "url": "https://api.github.com/repos/norlab-ulaval/BorealTC/git/blobs/9d76be6990f2122929bbacd16f834f8769f99c5f",
+      "sha256": "b84e547a52d982053b5f816bf6312fdbd524376756822d619bc930190ad11105"
+    },
+    {
+      "path": "data/borealtc/FLOORING/imu_05.csv",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "4d1dc9fa0310022f903aa55691721ab89027ee32",
+      "size": 3415919,
+      "url": "https://api.github.com/repos/norlab-ulaval/BorealTC/git/blobs/4d1dc9fa0310022f903aa55691721ab89027ee32",
+      "sha256": "10b1aa9b718d142771d05017e5231fedc2ca1c02e401bcfe3e5c95bb8b17ee59"
+    },
+    {
+      "path": "data/borealtc/FLOORING/imu_06.csv",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "3a492f05094c2fc439a47b2f533e83912eacb76b",
+      "size": 7661403,
+      "url": "https://api.github.com/repos/norlab-ulaval/BorealTC/git/blobs/3a492f05094c2fc439a47b2f533e83912eacb76b",
+      "sha256": "352ac2c4b20adf214727a3aca8b5739dae2e1c4fd3fc6b187d7ce3cc50ffffd5"
+    },
+    {
+      "path": "data/borealtc/FLOORING/imu_07.csv",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "97510af0920939ddad31c27c6c3a5a5a29fd72a3",
+      "size": 1877365,
+      "url": "https://api.github.com/repos/norlab-ulaval/BorealTC/git/blobs/97510af0920939ddad31c27c6c3a5a5a29fd72a3",
+      "sha256": "effb6dc3e9d08a926e28a11b071bc7a248b13fab18b6d1df1ea54acc49b1f445"
+    },
+    {
+      "path": "data/borealtc/FLOORING/imu_08.csv",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "ab4e82532dfc0715db3e2e2823a63a26ad395945",
+      "size": 274586,
+      "url": "https://api.github.com/repos/norlab-ulaval/BorealTC/git/blobs/ab4e82532dfc0715db3e2e2823a63a26ad395945",
+      "sha256": "089514f8f95ce35962b7992b7cf683f7e990530bb12c1ba522f5797144395795"
+    },
+    {
+      "path": "data/borealtc/FLOORING/imu_09.csv",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "a337c559c4327841a623cf81735d73d2e6afddef",
+      "size": 1578497,
+      "url": "https://api.github.com/repos/norlab-ulaval/BorealTC/git/blobs/a337c559c4327841a623cf81735d73d2e6afddef",
+      "sha256": "6224e68b77bc7f646f8215228a05660f7146d6814552466215bb3a9144d5310f"
+    },
+    {
+      "path": "data/borealtc/FLOORING/pro_00.csv",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "7068c3c550f8163447e4e254be0be08bc9da8438",
+      "size": 109955,
+      "url": "https://api.github.com/repos/norlab-ulaval/BorealTC/git/blobs/7068c3c550f8163447e4e254be0be08bc9da8438",
+      "sha256": "48a0ddb98a4f20b473c0d7ad924ed4ad7d2b91607d4c4c1a3a015e227edd0fd8"
+    },
+    {
+      "path": "data/borealtc/FLOORING/pro_01.csv",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "ae98ccae7fee93005cb9bb1a5842b7ee2542e3e1",
+      "size": 8530,
+      "url": "https://api.github.com/repos/norlab-ulaval/BorealTC/git/blobs/ae98ccae7fee93005cb9bb1a5842b7ee2542e3e1",
+      "sha256": "2c487ed552ce02ed0cf32f069b6dfe362fe082ef68338ec9369e0d8b4bd44228"
+    },
+    {
+      "path": "data/borealtc/FLOORING/pro_02.csv",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "6af1d4931ce97c5862389b1fc35ed48701f2a354",
+      "size": 11101,
+      "url": "https://api.github.com/repos/norlab-ulaval/BorealTC/git/blobs/6af1d4931ce97c5862389b1fc35ed48701f2a354",
+      "sha256": "7bc7de708b798c301d4eef438bbda9b4e332cc7e298a23bb6bb07dc33d442917"
+    },
+    {
+      "path": "data/borealtc/FLOORING/pro_03.csv",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "03d3e6a44d2d71db3c6949afc80418e8ceefdf05",
+      "size": 90344,
+      "url": "https://api.github.com/repos/norlab-ulaval/BorealTC/git/blobs/03d3e6a44d2d71db3c6949afc80418e8ceefdf05",
+      "sha256": "42664751dfce5c0ad5d2fbc0de9068d897cddb61978d99568aad7043929075f6"
+    },
+    {
+      "path": "data/borealtc/FLOORING/pro_04.csv",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "417358796a43bf1de1338df41478b6269ef48fe6",
+      "size": 179766,
+      "url": "https://api.github.com/repos/norlab-ulaval/BorealTC/git/blobs/417358796a43bf1de1338df41478b6269ef48fe6",
+      "sha256": "66c5f1d0b57ddbdb74cc30c8a41ab1741a942f443671853c984202a22a083091"
+    },
+    {
+      "path": "data/borealtc/FLOORING/pro_05.csv",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "647fe87a50bd1c3ea330538dbf39076c4f4d8767",
+      "size": 117573,
+      "url": "https://api.github.com/repos/norlab-ulaval/BorealTC/git/blobs/647fe87a50bd1c3ea330538dbf39076c4f4d8767",
+      "sha256": "92c690e76e793a3e32337965a4b3315c119ad6989834eb26cdcedc5456f55ab2"
+    },
+    {
+      "path": "data/borealtc/FLOORING/pro_06.csv",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "778aa4d4faaf668b7a66ddcf717e131b36d60b77",
+      "size": 262959,
+      "url": "https://api.github.com/repos/norlab-ulaval/BorealTC/git/blobs/778aa4d4faaf668b7a66ddcf717e131b36d60b77",
+      "sha256": "d3a09f0f35b9c7a79269634989c300264886952b3497c2cd40534f0df5662308"
+    },
+    {
+      "path": "data/borealtc/FLOORING/pro_07.csv",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "177fb8a461e03d6d1d27b6826d91337a1fe4cf89",
+      "size": 64549,
+      "url": "https://api.github.com/repos/norlab-ulaval/BorealTC/git/blobs/177fb8a461e03d6d1d27b6826d91337a1fe4cf89",
+      "sha256": "a7f7987fd61125c4879436a6bb643f634bac41442f61c256172568eb35243ee5"
+    },
+    {
+      "path": "data/borealtc/FLOORING/pro_08.csv",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "05cbf9a7fc8f4cb725201b63c24cd72e81801b2f",
+      "size": 9717,
+      "url": "https://api.github.com/repos/norlab-ulaval/BorealTC/git/blobs/05cbf9a7fc8f4cb725201b63c24cd72e81801b2f",
+      "sha256": "19a5513399458b6c623b6ac37dba21c7ab36eb1c88bd242998486142e4a29e2a"
+    },
+    {
+      "path": "data/borealtc/FLOORING/pro_09.csv",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "d50057b52d1466789c8b4a4e3a320c9f2a85a9a7",
+      "size": 53862,
+      "url": "https://api.github.com/repos/norlab-ulaval/BorealTC/git/blobs/d50057b52d1466789c8b4a4e3a320c9f2a85a9a7",
+      "sha256": "ad86d68214c2e0c37870efc5ef623454b0482065f965abdbd45b12b7ed81f3e0"
+    },
+    {
+      "path": "data/borealtc/ICE/imu_00.csv",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "c195bf1c94e421bb0e75e5c62d6f4be92cb666f5",
+      "size": 3005832,
+      "url": "https://api.github.com/repos/norlab-ulaval/BorealTC/git/blobs/c195bf1c94e421bb0e75e5c62d6f4be92cb666f5",
+      "sha256": "fecf99a7df190c9101338f2478919ee8effae96d91c0d674b0900a1a94e60142"
+    },
+    {
+      "path": "data/borealtc/ICE/imu_01.csv",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "f01f8609b8b4159df03a77c22a421fd59add10f7",
+      "size": 17618195,
+      "url": "https://api.github.com/repos/norlab-ulaval/BorealTC/git/blobs/f01f8609b8b4159df03a77c22a421fd59add10f7",
+      "sha256": "c9ece70b671210df878fda770a489dc1bb94c45da9f4447069d611120755b891"
+    },
+    {
+      "path": "data/borealtc/ICE/imu_02.csv",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "d7f2f0be8a5c8cd51f908f3a8004732f8f88501e",
+      "size": 681614,
+      "url": "https://api.github.com/repos/norlab-ulaval/BorealTC/git/blobs/d7f2f0be8a5c8cd51f908f3a8004732f8f88501e",
+      "sha256": "4f13c50fee50b47bf1500fbe9d900f420ce5813ca2176abb60b75e8b34e4625e"
+    },
+    {
+      "path": "data/borealtc/ICE/imu_03.csv",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "c880b7dc0411efa53505d66bc65f203f4d5b9755",
+      "size": 535497,
+      "url": "https://api.github.com/repos/norlab-ulaval/BorealTC/git/blobs/c880b7dc0411efa53505d66bc65f203f4d5b9755",
+      "sha256": "751e54a72236675c11ffc6655abd549c41e2ba2476af4d4546c369561e482f2f"
+    },
+    {
+      "path": "data/borealtc/ICE/imu_04.csv",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "d9a9f2bf2ae1a63a0273eadc009b2c2189eaa177",
+      "size": 220725,
+      "url": "https://api.github.com/repos/norlab-ulaval/BorealTC/git/blobs/d9a9f2bf2ae1a63a0273eadc009b2c2189eaa177",
+      "sha256": "1f89d8c72f205d30ac09c2d50aac819da27640d1650c99ff0ef56242a3457c69"
+    },
+    {
+      "path": "data/borealtc/ICE/imu_05.csv",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "8312d20c7ddede62a73dc7893c6585433f8265aa",
+      "size": 727996,
+      "url": "https://api.github.com/repos/norlab-ulaval/BorealTC/git/blobs/8312d20c7ddede62a73dc7893c6585433f8265aa",
+      "sha256": "0c3e9cc2fa4363da81122ab3a522f217bfd6d9737a24165fa88bb94945134e05"
+    },
+    {
+      "path": "data/borealtc/ICE/imu_06.csv",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "4f09700394839ae5f4871838d0b79364a9a24138",
+      "size": 1112528,
+      "url": "https://api.github.com/repos/norlab-ulaval/BorealTC/git/blobs/4f09700394839ae5f4871838d0b79364a9a24138",
+      "sha256": "5905992eca2a9a691731b00658b8bed7d6db3a929aa19e5494baca9c1e4e50f1"
+    },
+    {
+      "path": "data/borealtc/ICE/imu_07.csv",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "fd3352d331f8833a0bdd437c47b7f814aefcc638",
+      "size": 227291,
+      "url": "https://api.github.com/repos/norlab-ulaval/BorealTC/git/blobs/fd3352d331f8833a0bdd437c47b7f814aefcc638",
+      "sha256": "8e440935da6e6920b5666430d68d82d385593504c4de0cdd76cd98c4761aaaf5"
+    },
+    {
+      "path": "data/borealtc/ICE/imu_08.csv",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "003a64165cebea8a0b01955f880e5b2714833349",
+      "size": 1416245,
+      "url": "https://api.github.com/repos/norlab-ulaval/BorealTC/git/blobs/003a64165cebea8a0b01955f880e5b2714833349",
+      "sha256": "22fdf62dbe07d932a958bf47eccce4bd8c07d4793e0fee1fbec89c6781d32787"
+    },
+    {
+      "path": "data/borealtc/ICE/imu_09.csv",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "51df10e446f2ba2efcec5d69dcaafbc72365055e",
+      "size": 293308,
+      "url": "https://api.github.com/repos/norlab-ulaval/BorealTC/git/blobs/51df10e446f2ba2efcec5d69dcaafbc72365055e",
+      "sha256": "3df6e67e38dfc58d1fb1a01b21187a994c12dc86b3074991d893d8642a287aa1"
+    },
+    {
+      "path": "data/borealtc/ICE/imu_10.csv",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "7ac841514c88107afdd68585fad0c4366a81d4c2",
+      "size": 1652695,
+      "url": "https://api.github.com/repos/norlab-ulaval/BorealTC/git/blobs/7ac841514c88107afdd68585fad0c4366a81d4c2",
+      "sha256": "797e54829e53155c0a3719e602b92463913d23a84a4aab5ded78e930c78922b2"
+    },
+    {
+      "path": "data/borealtc/ICE/imu_11.csv",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "030e3bb45c93e454bdd68402c18104e5298b3c22",
+      "size": 200497,
+      "url": "https://api.github.com/repos/norlab-ulaval/BorealTC/git/blobs/030e3bb45c93e454bdd68402c18104e5298b3c22",
+      "sha256": "96e78f17d4a57112dc1b61ee3356e4e4d0c8f8591995d5ce47de6ff4f0bbcaf4"
+    },
+    {
+      "path": "data/borealtc/ICE/imu_12.csv",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "c8b48019db07e9a4cb7de276923de301734e59fe",
+      "size": 427337,
+      "url": "https://api.github.com/repos/norlab-ulaval/BorealTC/git/blobs/c8b48019db07e9a4cb7de276923de301734e59fe",
+      "sha256": "1ddec0d1e8a2979310b3cea1d01de8d2095ea8a77df1f36872e9f6299c9a6c63"
+    },
+    {
+      "path": "data/borealtc/ICE/pro_00.csv",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "ceea1f24665209d119b0d8b2f89f622513430f3d",
+      "size": 104003,
+      "url": "https://api.github.com/repos/norlab-ulaval/BorealTC/git/blobs/ceea1f24665209d119b0d8b2f89f622513430f3d",
+      "sha256": "9c1d56591bf830a4edc57fa7676a41abb8baabf1319e6da19f4f966dee89b335"
+    },
+    {
+      "path": "data/borealtc/ICE/pro_01.csv",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "b4f4e5ac13ca8837a69cea19f0449d8833897b2b",
+      "size": 612174,
+      "url": "https://api.github.com/repos/norlab-ulaval/BorealTC/git/blobs/b4f4e5ac13ca8837a69cea19f0449d8833897b2b",
+      "sha256": "f7f5d426d67e1101f5db881cc1fbf7f88611bc752c2d0ac8f273edf129dd5c98"
+    },
+    {
+      "path": "data/borealtc/ICE/pro_02.csv",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "656b81c4b2e39cc771b8dab0b5d63615cd017be6",
+      "size": 23721,
+      "url": "https://api.github.com/repos/norlab-ulaval/BorealTC/git/blobs/656b81c4b2e39cc771b8dab0b5d63615cd017be6",
+      "sha256": "51735ef066abb621c4269be1bb5353a99ddd9478f108c2aecda5bd206b6ed7da"
+    },
+    {
+      "path": "data/borealtc/ICE/pro_03.csv",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "5ab917e08c00b79bfffc89227771133b715bb06e",
+      "size": 18321,
+      "url": "https://api.github.com/repos/norlab-ulaval/BorealTC/git/blobs/5ab917e08c00b79bfffc89227771133b715bb06e",
+      "sha256": "6cbd4d8efb4412a1b754f44987b5e508ba590ba1bcb2989a48141de2ceb579e8"
+    },
+    {
+      "path": "data/borealtc/ICE/pro_04.csv",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "9e8ef4e1b808fa1a52344b6c775fb26011d4379c",
+      "size": 7601,
+      "url": "https://api.github.com/repos/norlab-ulaval/BorealTC/git/blobs/9e8ef4e1b808fa1a52344b6c775fb26011d4379c",
+      "sha256": "59db309ce526d5e0855a5ecd81aea919e7dc7735e2c42890f1364f4bbbcf70c1"
+    },
+    {
+      "path": "data/borealtc/ICE/pro_05.csv",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "168f6d4b00b5bb4e686839595006903fd6779023",
+      "size": 25785,
+      "url": "https://api.github.com/repos/norlab-ulaval/BorealTC/git/blobs/168f6d4b00b5bb4e686839595006903fd6779023",
+      "sha256": "e3157855de8b4735f2d7fe5e771bff850da97bdddcf797c5111c4f3b8e75a531"
+    },
+    {
+      "path": "data/borealtc/ICE/pro_06.csv",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "6582025e2fcf863cae93c2b564670da30ab35d64",
+      "size": 39247,
+      "url": "https://api.github.com/repos/norlab-ulaval/BorealTC/git/blobs/6582025e2fcf863cae93c2b564670da30ab35d64",
+      "sha256": "036bec9694e91173abd685a5dc84196300a3a10273dcb0e95a03aba63269a410"
+    },
+    {
+      "path": "data/borealtc/ICE/pro_07.csv",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "974edfba8dbc0b642c664fa094eb73c80f2184db",
+      "size": 8154,
+      "url": "https://api.github.com/repos/norlab-ulaval/BorealTC/git/blobs/974edfba8dbc0b642c664fa094eb73c80f2184db",
+      "sha256": "63e82a4194c2084481272d36ed413d71ab9502567c47944217b7db86b8e54c3c"
+    },
+    {
+      "path": "data/borealtc/ICE/pro_08.csv",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "a87d4d820c45f7aca3071eb01e9138b69039b059",
+      "size": 50384,
+      "url": "https://api.github.com/repos/norlab-ulaval/BorealTC/git/blobs/a87d4d820c45f7aca3071eb01e9138b69039b059",
+      "sha256": "dc2b43c68279a6aad608f6629239b5bac1fb1f4807dfebc6f06a95d5e65b3ce9"
+    },
+    {
+      "path": "data/borealtc/ICE/pro_09.csv",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "81ce248a02266caadb4bcf69d9b228f5a4d8c8a0",
+      "size": 10230,
+      "url": "https://api.github.com/repos/norlab-ulaval/BorealTC/git/blobs/81ce248a02266caadb4bcf69d9b228f5a4d8c8a0",
+      "sha256": "709196b068aa3377c1318b426409a6c2998d807f8a28ba825abc43be4ff66ab1"
+    },
+    {
+      "path": "data/borealtc/ICE/pro_10.csv",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "749812d47eae26985199df3df80e2d65ac0b4011",
+      "size": 58115,
+      "url": "https://api.github.com/repos/norlab-ulaval/BorealTC/git/blobs/749812d47eae26985199df3df80e2d65ac0b4011",
+      "sha256": "c239288dee514469221b8722a0b4fc98b33e34899078bafa2441baac15ffa185"
+    },
+    {
+      "path": "data/borealtc/ICE/pro_11.csv",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "69b184780a242d1ce4970a69e6f2666c9e67357c",
+      "size": 6700,
+      "url": "https://api.github.com/repos/norlab-ulaval/BorealTC/git/blobs/69b184780a242d1ce4970a69e6f2666c9e67357c",
+      "sha256": "355bed15c9231051215744d2f989e3f0b1b2175ac056805c55bbbf7395305cc2"
+    },
+    {
+      "path": "data/borealtc/ICE/pro_12.csv",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "4e34a8e8e8f788551ff6808a8c1c14c67bf9a385",
+      "size": 14782,
+      "url": "https://api.github.com/repos/norlab-ulaval/BorealTC/git/blobs/4e34a8e8e8f788551ff6808a8c1c14c67bf9a385",
+      "sha256": "d55c54ec04cf8026aa4f52aa9292b22c9ec8845b6aa834b8419a321e98788839"
+    },
+    {
+      "path": "data/borealtc/LICENSE",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "e69de29bb2d1d6434b8b29ae775ad8c2e48c5391",
+      "size": 0,
+      "url": "https://api.github.com/repos/norlab-ulaval/BorealTC/git/blobs/e69de29bb2d1d6434b8b29ae775ad8c2e48c5391",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "path": "data/borealtc/README.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "2dbfb8d05ee79bb8676a6b52bbbab63fecab5de5",
+      "size": 1098,
+      "url": "https://api.github.com/repos/norlab-ulaval/BorealTC/git/blobs/2dbfb8d05ee79bb8676a6b52bbbab63fecab5de5",
+      "sha256": "a0127afd3075c737c25ff92fdab7daf604adff4039d73065852ffb8041ab8c05"
+    },
+    {
+      "path": "data/borealtc/SANDY_LOAM/imu_00.csv",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "fd6fbd66246f027e2f12180dd71b69a47974d80b",
+      "size": 114131,
+      "url": "https://api.github.com/repos/norlab-ulaval/BorealTC/git/blobs/fd6fbd66246f027e2f12180dd71b69a47974d80b",
+      "sha256": "79a13792408fe799133253203adc67a44cf5becc015f6fffb624dd5dc1143c29"
+    },
+    {
+      "path": "data/borealtc/SANDY_LOAM/imu_01.csv",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "e86cff178424e160d9fc8aefdc2eeb29736e350c",
+      "size": 631227,
+      "url": "https://api.github.com/repos/norlab-ulaval/BorealTC/git/blobs/e86cff178424e160d9fc8aefdc2eeb29736e350c",
+      "sha256": "7953de9f69b81ef4e1addf3443dabc4ce113b29edd2caa48a1955452c344e72a"
+    },
+    {
+      "path": "data/borealtc/SANDY_LOAM/imu_02.csv",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "09dd434ffa9e82a81d271c5b17c02d411464c2eb",
+      "size": 496694,
+      "url": "https://api.github.com/repos/norlab-ulaval/BorealTC/git/blobs/09dd434ffa9e82a81d271c5b17c02d411464c2eb",
+      "sha256": "4b826be39f89f1bc6a5ab5e01155f26db089be54e37db129e691ae73e6e62d21"
+    },
+    {
+      "path": "data/borealtc/SANDY_LOAM/imu_03.csv",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "b9bb98d9a22debd981faf9b1a0e71d378a9a11e9",
+      "size": 481720,
+      "url": "https://api.github.com/repos/norlab-ulaval/BorealTC/git/blobs/b9bb98d9a22debd981faf9b1a0e71d378a9a11e9",
+      "sha256": "b0f7a3d5baa31bc5a253536e58a0bdb97cbb9d27f24dbcae60d83b0ae63025da"
+    },
+    {
+      "path": "data/borealtc/SANDY_LOAM/imu_04.csv",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "abf393c14c9ee52c9815d43df04216517edb5097",
+      "size": 611985,
+      "url": "https://api.github.com/repos/norlab-ulaval/BorealTC/git/blobs/abf393c14c9ee52c9815d43df04216517edb5097",
+      "sha256": "3c8ad16939cc09b2e6203b45dc596c5cc9d2ca7e083273052022d72cf1b04b1d"
+    },
+    {
+      "path": "data/borealtc/SANDY_LOAM/imu_05.csv",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "a4120eb031e6f0bf8c5b0b9ccfe8e8030671219c",
+      "size": 513177,
+      "url": "https://api.github.com/repos/norlab-ulaval/BorealTC/git/blobs/a4120eb031e6f0bf8c5b0b9ccfe8e8030671219c",
+      "sha256": "cb8ba8906171fe4d9b43ad6ac4176c979991a93d1053695650debc1cfa0678d7"
+    },
+    {
+      "path": "data/borealtc/SANDY_LOAM/imu_06.csv",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "81ae10c47299cbc721c92c55bd102870d329ff5c",
+      "size": 680585,
+      "url": "https://api.github.com/repos/norlab-ulaval/BorealTC/git/blobs/81ae10c47299cbc721c92c55bd102870d329ff5c",
+      "sha256": "036299c366db19d73b299264836737b81da29c4de5830568488f96ef86f3125a"
+    },
+    {
+      "path": "data/borealtc/SANDY_LOAM/imu_07.csv",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "45422f7ebc36bbee725f2969351a4e88e7eb1d3c",
+      "size": 600840,
+      "url": "https://api.github.com/repos/norlab-ulaval/BorealTC/git/blobs/45422f7ebc36bbee725f2969351a4e88e7eb1d3c",
+      "sha256": "7003d4f96065f6f142b11e863df05df1e36dde56ecba935df9321ffffd970a7d"
+    },
+    {
+      "path": "data/borealtc/SANDY_LOAM/imu_08.csv",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "1d982a806ddab06bdd24bffc9b6693cd47ffb44b",
+      "size": 532461,
+      "url": "https://api.github.com/repos/norlab-ulaval/BorealTC/git/blobs/1d982a806ddab06bdd24bffc9b6693cd47ffb44b",
+      "sha256": "7217d0f930112cca5207dea9ae739c5fdb0618e4eed55c6af82024b04f85244a"
+    },
+    {
+      "path": "data/borealtc/SANDY_LOAM/imu_09.csv",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "1365002799a0e7ce8afa729b6963f46f5beb475a",
+      "size": 259119,
+      "url": "https://api.github.com/repos/norlab-ulaval/BorealTC/git/blobs/1365002799a0e7ce8afa729b6963f46f5beb475a",
+      "sha256": "321b78faf845f4c1bff50c16fd8653c949d7c502244ad888de8e54eb74beeda3"
+    },
+    {
+      "path": "data/borealtc/SANDY_LOAM/imu_10.csv",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "efeb8d7ac9d40f7193210af36bd4938424611d82",
+      "size": 1077716,
+      "url": "https://api.github.com/repos/norlab-ulaval/BorealTC/git/blobs/efeb8d7ac9d40f7193210af36bd4938424611d82",
+      "sha256": "0cd250871a6e5008b209d5ebc43715887176ea135bf0f269ef2716bc217673e5"
+    },
+    {
+      "path": "data/borealtc/SANDY_LOAM/imu_11.csv",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "8fb23c980501b7d0e00db66fa3e74bef006febfd",
+      "size": 557566,
+      "url": "https://api.github.com/repos/norlab-ulaval/BorealTC/git/blobs/8fb23c980501b7d0e00db66fa3e74bef006febfd",
+      "sha256": "f9bcdc99006644194a6bb4a28c9aa7ff2e4b133c09c96a2a4b2e9422c75d6307"
+    },
+    {
+      "path": "data/borealtc/SANDY_LOAM/imu_12.csv",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "d6831d44db5438adabb532f0f809a58a302c3a9e",
+      "size": 803738,
+      "url": "https://api.github.com/repos/norlab-ulaval/BorealTC/git/blobs/d6831d44db5438adabb532f0f809a58a302c3a9e",
+      "sha256": "19673154d0b5b6d20a4c2d836aa53848293f9ada2c487bc4e31ea013abfbe22f"
+    },
+    {
+      "path": "data/borealtc/SANDY_LOAM/imu_13.csv",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "15b86f655b4dc56a7031feb2c8fe314d2b47de03",
+      "size": 708940,
+      "url": "https://api.github.com/repos/norlab-ulaval/BorealTC/git/blobs/15b86f655b4dc56a7031feb2c8fe314d2b47de03",
+      "sha256": "25ab98ea63b80218a38e5e10f199b3cdd89477075e4e605f65919f5d5ac10f7b"
+    },
+    {
+      "path": "data/borealtc/SANDY_LOAM/pro_00.csv",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "53600f3685ffce50749dca91fe51cc83b620d5d1",
+      "size": 4250,
+      "url": "https://api.github.com/repos/norlab-ulaval/BorealTC/git/blobs/53600f3685ffce50749dca91fe51cc83b620d5d1",
+      "sha256": "55612d0ebde13e7e731421bcca65b92bb350f3d983f3d7c148bd83382b73d6c9"
+    },
+    {
+      "path": "data/borealtc/SANDY_LOAM/pro_01.csv",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "39f8eaab783eab8036e3b3aac8820d24ab489bfe",
+      "size": 21453,
+      "url": "https://api.github.com/repos/norlab-ulaval/BorealTC/git/blobs/39f8eaab783eab8036e3b3aac8820d24ab489bfe",
+      "sha256": "7e4d8e9a84de17eff9ca081ac0dd41e22cc1b33bc4c59b03a8542eb8e5e8db69"
+    },
+    {
+      "path": "data/borealtc/SANDY_LOAM/pro_02.csv",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "137af8f7787fddf8c23c8f429c2efd51d26e6c9f",
+      "size": 18477,
+      "url": "https://api.github.com/repos/norlab-ulaval/BorealTC/git/blobs/137af8f7787fddf8c23c8f429c2efd51d26e6c9f",
+      "sha256": "610072ec4752fe1e547c5b28e6ca0f1a4abd7e5baab24990d00a32a891861eaa"
+    },
+    {
+      "path": "data/borealtc/SANDY_LOAM/pro_03.csv",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "1a070b483b1b966559a64c0c041b1c4f03c9e390",
+      "size": 17736,
+      "url": "https://api.github.com/repos/norlab-ulaval/BorealTC/git/blobs/1a070b483b1b966559a64c0c041b1c4f03c9e390",
+      "sha256": "4d7d3709634ba8e305a59c47c3f1846aa745ed1d06a3846f553fb450bb8c756c"
+    },
+    {
+      "path": "data/borealtc/SANDY_LOAM/pro_04.csv",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "ebfa820d77e71f83dff21f0fe8bdcebbf5e05e27",
+      "size": 22660,
+      "url": "https://api.github.com/repos/norlab-ulaval/BorealTC/git/blobs/ebfa820d77e71f83dff21f0fe8bdcebbf5e05e27",
+      "sha256": "64c5330dca26aaf4524c4af7c3a88ab02c693f4cf4dc81378be98cddd2527226"
+    },
+    {
+      "path": "data/borealtc/SANDY_LOAM/pro_05.csv",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "054428b072589d95e8a20ce2c9372a24ec78179e",
+      "size": 18351,
+      "url": "https://api.github.com/repos/norlab-ulaval/BorealTC/git/blobs/054428b072589d95e8a20ce2c9372a24ec78179e",
+      "sha256": "b3484de6549b3bbd0a95f98aa22fc5e5608525e64f743a4ebe957750474dcca3"
+    },
+    {
+      "path": "data/borealtc/SANDY_LOAM/pro_06.csv",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "a0bb77aa5b174e40b6471351fe9eba89f16620a3",
+      "size": 24050,
+      "url": "https://api.github.com/repos/norlab-ulaval/BorealTC/git/blobs/a0bb77aa5b174e40b6471351fe9eba89f16620a3",
+      "sha256": "bf050fdd1c784403fb3e461724932a43b85b0bd93550f4c69f5002147b89bada"
+    },
+    {
+      "path": "data/borealtc/SANDY_LOAM/pro_07.csv",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "d3f964fd8928a0eaa2849e0631a852d82aba029d",
+      "size": 21755,
+      "url": "https://api.github.com/repos/norlab-ulaval/BorealTC/git/blobs/d3f964fd8928a0eaa2849e0631a852d82aba029d",
+      "sha256": "9cbb19631ca54b2b462e265efe47a0e10d5a0d1ffddf10fd4b69494b8cc834ac"
+    },
+    {
+      "path": "data/borealtc/SANDY_LOAM/pro_08.csv",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "1b84e38eacbb0ba9b1bbd21b2546c3f354d80a35",
+      "size": 19053,
+      "url": "https://api.github.com/repos/norlab-ulaval/BorealTC/git/blobs/1b84e38eacbb0ba9b1bbd21b2546c3f354d80a35",
+      "sha256": "dd02568f0d86ca331f1f1c0aa8d6c194878a4d8ca81c4dcb7caf285341aaf80e"
+    },
+    {
+      "path": "data/borealtc/SANDY_LOAM/pro_09.csv",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "802b3a47941e6075f292ca0415699cacb1f0cbc6",
+      "size": 9312,
+      "url": "https://api.github.com/repos/norlab-ulaval/BorealTC/git/blobs/802b3a47941e6075f292ca0415699cacb1f0cbc6",
+      "sha256": "5974be1192f2474d58e08160dd0d53925f26f2fba3b52edd5300ae3536649288"
+    },
+    {
+      "path": "data/borealtc/SANDY_LOAM/pro_10.csv",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "8bfd813dd1409a6554730d3b2441c0682c8b3667",
+      "size": 39437,
+      "url": "https://api.github.com/repos/norlab-ulaval/BorealTC/git/blobs/8bfd813dd1409a6554730d3b2441c0682c8b3667",
+      "sha256": "112fc8b93cd692102582e4ebf1bfa3b9cfbd49ba428d0c403fede83f93f0320a"
+    },
+    {
+      "path": "data/borealtc/SANDY_LOAM/pro_11.csv",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "8fae351caf477d455352b1ad231c177dccc36615",
+      "size": 20990,
+      "url": "https://api.github.com/repos/norlab-ulaval/BorealTC/git/blobs/8fae351caf477d455352b1ad231c177dccc36615",
+      "sha256": "b12f5725accf77ad6fc0238a14768ef606edc12e41f0de3d73eb7348a7113ab5"
+    },
+    {
+      "path": "data/borealtc/SANDY_LOAM/pro_12.csv",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "4240063e06de072154ee37a03960a43a661f6eed",
+      "size": 27823,
+      "url": "https://api.github.com/repos/norlab-ulaval/BorealTC/git/blobs/4240063e06de072154ee37a03960a43a661f6eed",
+      "sha256": "d1c1390d2968325671bb5461c9da45e58c3b3ffc0446b41f2c67d5078ae48b61"
+    },
+    {
+      "path": "data/borealtc/SANDY_LOAM/pro_13.csv",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "5e5ba9e6a0a5e43fb9a91f7bf75a165ce2623630",
+      "size": 25702,
+      "url": "https://api.github.com/repos/norlab-ulaval/BorealTC/git/blobs/5e5ba9e6a0a5e43fb9a91f7bf75a165ce2623630",
+      "sha256": "35ef42a59009bf5cc55a0beca6bfe8d2201225725e6b213c43ecf80f36af825a"
+    },
+    {
+      "path": "data/borealtc/SNOW/imu_00.csv",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "9014ea83e4c0aec6cefacf46f671c117e8b521fc",
+      "size": 281973,
+      "url": "https://api.github.com/repos/norlab-ulaval/BorealTC/git/blobs/9014ea83e4c0aec6cefacf46f671c117e8b521fc",
+      "sha256": "b6599ed8da97a0e3212ae4569bc2331d949e5ab11272ab6435a1058875b22485"
+    },
+    {
+      "path": "data/borealtc/SNOW/imu_01.csv",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "ce6c76684f322174ba3240f18a7a1639a20897bd",
+      "size": 405782,
+      "url": "https://api.github.com/repos/norlab-ulaval/BorealTC/git/blobs/ce6c76684f322174ba3240f18a7a1639a20897bd",
+      "sha256": "a2f31c9dc0b0690973867dac6248622dc925dde741bae21dae0823603b7f3239"
+    },
+    {
+      "path": "data/borealtc/SNOW/imu_02.csv",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "60b54e339bde1990bd78f1e70fc8c8075d1ca21e",
+      "size": 452434,
+      "url": "https://api.github.com/repos/norlab-ulaval/BorealTC/git/blobs/60b54e339bde1990bd78f1e70fc8c8075d1ca21e",
+      "sha256": "db6d04db4692aed57b08c8a2212c26d1027cd28bca6b63117e70905aa8c88efc"
+    },
+    {
+      "path": "data/borealtc/SNOW/imu_03.csv",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "e554717e3170c2cebe44392e3d1b041cdce05eca",
+      "size": 423748,
+      "url": "https://api.github.com/repos/norlab-ulaval/BorealTC/git/blobs/e554717e3170c2cebe44392e3d1b041cdce05eca",
+      "sha256": "1c32ee41f32e36c8e413fc0d39bea28ddd8771f61cd27cfcbf900330392c41dc"
+    },
+    {
+      "path": "data/borealtc/SNOW/imu_04.csv",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "ef9ac73193986a215d556e613632e8b7f69455a6",
+      "size": 267500,
+      "url": "https://api.github.com/repos/norlab-ulaval/BorealTC/git/blobs/ef9ac73193986a215d556e613632e8b7f69455a6",
+      "sha256": "6725a8d90f22988ce81ef9f4c067a356a4633e9af9061026f5abb784c636d5e8"
+    },
+    {
+      "path": "data/borealtc/SNOW/imu_05.csv",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "140d2d304b30dc7f43eccefd99cfb060c02da562",
+      "size": 682243,
+      "url": "https://api.github.com/repos/norlab-ulaval/BorealTC/git/blobs/140d2d304b30dc7f43eccefd99cfb060c02da562",
+      "sha256": "1d8890ca8f02768188d5f700fad88098e50c9dcff3b480b33deefbc9781e76db"
+    },
+    {
+      "path": "data/borealtc/SNOW/imu_06.csv",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "1bdba5ed71825baa5af04514cdafc7c328f955ee",
+      "size": 1251967,
+      "url": "https://api.github.com/repos/norlab-ulaval/BorealTC/git/blobs/1bdba5ed71825baa5af04514cdafc7c328f955ee",
+      "sha256": "78c0b1c19745dca9c638dd8e1331d92e2f33cf5e7bd48a14c7eccbb0e662f2d6"
+    },
+    {
+      "path": "data/borealtc/SNOW/imu_07.csv",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "add563f074f5e656bacb250df366335db7dd2128",
+      "size": 664497,
+      "url": "https://api.github.com/repos/norlab-ulaval/BorealTC/git/blobs/add563f074f5e656bacb250df366335db7dd2128",
+      "sha256": "63a2743989559fdae4218471b539f6227df4e0d95559aa786ec7d75ba096f8a5"
+    },
+    {
+      "path": "data/borealtc/SNOW/imu_08.csv",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "10ac8ce46967ba496401dd522463ac739cd3aa8a",
+      "size": 271676,
+      "url": "https://api.github.com/repos/norlab-ulaval/BorealTC/git/blobs/10ac8ce46967ba496401dd522463ac739cd3aa8a",
+      "sha256": "625265ad60680e647572967ad4c2e38f1736989a588354fb888ca1b2e3b97dd4"
+    },
+    {
+      "path": "data/borealtc/SNOW/imu_09.csv",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "09a49ecb191ed5adbb34dd667cf82c598a8c0b96",
+      "size": 297151,
+      "url": "https://api.github.com/repos/norlab-ulaval/BorealTC/git/blobs/09a49ecb191ed5adbb34dd667cf82c598a8c0b96",
+      "sha256": "e41a21c1619fef348f9fb3955254d7c454e85ed3e3275c35bf9102077bf9a6fb"
+    },
+    {
+      "path": "data/borealtc/SNOW/imu_10.csv",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "3bcd516594481ea88f853b49d5aa912d16dc5d95",
+      "size": 1038930,
+      "url": "https://api.github.com/repos/norlab-ulaval/BorealTC/git/blobs/3bcd516594481ea88f853b49d5aa912d16dc5d95",
+      "sha256": "832ffab4d06d7dc96f76bb0641ce597c7d5f5282ea9af2f16e4c0cc51cf1cb63"
+    },
+    {
+      "path": "data/borealtc/SNOW/imu_11.csv",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "9bf3a5064e8ae989d8024b1d8b5c823f114df72c",
+      "size": 1140139,
+      "url": "https://api.github.com/repos/norlab-ulaval/BorealTC/git/blobs/9bf3a5064e8ae989d8024b1d8b5c823f114df72c",
+      "sha256": "b164ca57d2f4aa17ab4ff1b5d40b55f3030e952ae35af7c75a08b3e26e46acdc"
+    },
+    {
+      "path": "data/borealtc/SNOW/imu_12.csv",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "be1033e32705f45eb232d89efd1a16a5e11bab5a",
+      "size": 311610,
+      "url": "https://api.github.com/repos/norlab-ulaval/BorealTC/git/blobs/be1033e32705f45eb232d89efd1a16a5e11bab5a",
+      "sha256": "1a66531f0cf2b62e99c30af522598997d48b244a080548d6a06ace3ba16718f4"
+    },
+    {
+      "path": "data/borealtc/SNOW/imu_13.csv",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "6484b23edf5e3404e781d7fb02e7c0c1ee58e37d",
+      "size": 860545,
+      "url": "https://api.github.com/repos/norlab-ulaval/BorealTC/git/blobs/6484b23edf5e3404e781d7fb02e7c0c1ee58e37d",
+      "sha256": "a932d39eed40d936c7fdbde642e421ee031c325cca7ed47dddf0ca66add5321f"
+    },
+    {
+      "path": "data/borealtc/SNOW/imu_14.csv",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "be27fdd37014b3517cf0d15cdd5471a77528d67a",
+      "size": 1064435,
+      "url": "https://api.github.com/repos/norlab-ulaval/BorealTC/git/blobs/be27fdd37014b3517cf0d15cdd5471a77528d67a",
+      "sha256": "ccfca2d274ce9ca833d57393fed8a33d0fc7c7780db21af3ce60786e5c0b0139"
+    },
+    {
+      "path": "data/borealtc/SNOW/imu_15.csv",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "cddccc1d66bd9b438b8d7f6618615b7f4e25b007",
+      "size": 1114152,
+      "url": "https://api.github.com/repos/norlab-ulaval/BorealTC/git/blobs/cddccc1d66bd9b438b8d7f6618615b7f4e25b007",
+      "sha256": "af4eb22cf08d59c694d4a61c6de175c6b088c07574e65297d57519c973630367"
+    },
+    {
+      "path": "data/borealtc/SNOW/imu_16.csv",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "cc0773364e2e01539ebf3ba73e125334b8921e86",
+      "size": 561488,
+      "url": "https://api.github.com/repos/norlab-ulaval/BorealTC/git/blobs/cc0773364e2e01539ebf3ba73e125334b8921e86",
+      "sha256": "8d562df97260f302596dbf0e58f3ad9698767a78127045035a2b3799791ddfc5"
+    },
+    {
+      "path": "data/borealtc/SNOW/imu_17.csv",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "02fc373e2aa6debf6527891938c605f6ab1cee4b",
+      "size": 828037,
+      "url": "https://api.github.com/repos/norlab-ulaval/BorealTC/git/blobs/02fc373e2aa6debf6527891938c605f6ab1cee4b",
+      "sha256": "ed4c9c703ce8451334f3700e3ba88b427e31af63af6d4849fcdf5bd2c56706a5"
+    },
+    {
+      "path": "data/borealtc/SNOW/imu_18.csv",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "e390a8e1f7d5669b19e195d9a829200cfd9d866a",
+      "size": 612856,
+      "url": "https://api.github.com/repos/norlab-ulaval/BorealTC/git/blobs/e390a8e1f7d5669b19e195d9a829200cfd9d866a",
+      "sha256": "6c59fa4940f5b19627091326eb627ba258bc70f38b346000581b69da25217923"
+    },
+    {
+      "path": "data/borealtc/SNOW/imu_19.csv",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "ac7c621e6e02c626ac5e72c92dbbe1fbeb0a0517",
+      "size": 793628,
+      "url": "https://api.github.com/repos/norlab-ulaval/BorealTC/git/blobs/ac7c621e6e02c626ac5e72c92dbbe1fbeb0a0517",
+      "sha256": "460a34a0e99fe3efe83631039a615f248721442b9e988b396ec15b1d866fce8b"
+    },
+    {
+      "path": "data/borealtc/SNOW/imu_20.csv",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "07d706a14fcc3a720aa46d499e214015d4030af1",
+      "size": 597682,
+      "url": "https://api.github.com/repos/norlab-ulaval/BorealTC/git/blobs/07d706a14fcc3a720aa46d499e214015d4030af1",
+      "sha256": "ffd301df946f92ccb4e499c83e43608c0d13750bf045a7317375db5c339e2241"
+    },
+    {
+      "path": "data/borealtc/SNOW/imu_21.csv",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "60d101080d0abd55130c8cddc5118307afdf03ca",
+      "size": 649497,
+      "url": "https://api.github.com/repos/norlab-ulaval/BorealTC/git/blobs/60d101080d0abd55130c8cddc5118307afdf03ca",
+      "sha256": "a58471d3f08cfc51649c290f399be19bd5682e5071794d67a03d1a770adc9566"
+    },
+    {
+      "path": "data/borealtc/SNOW/imu_22.csv",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "685f92cf1e31171a35c9466c119cf2f31802fe4b",
+      "size": 742599,
+      "url": "https://api.github.com/repos/norlab-ulaval/BorealTC/git/blobs/685f92cf1e31171a35c9466c119cf2f31802fe4b",
+      "sha256": "effb974a6bc892a38d1c12eec53ccfcc3ba819b157b55d479456dadb2909abad"
+    },
+    {
+      "path": "data/borealtc/SNOW/imu_23.csv",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "34f0777469b6c639b724854a835e4595be113f15",
+      "size": 524830,
+      "url": "https://api.github.com/repos/norlab-ulaval/BorealTC/git/blobs/34f0777469b6c639b724854a835e4595be113f15",
+      "sha256": "a3c3e660dffac286c9bbfc8a69e9936147c88eeb74fe0cc5104dbc5711477797"
+    },
+    {
+      "path": "data/borealtc/SNOW/imu_24.csv",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "7fa5ed183230641d06dcab1163283067a9f10414",
+      "size": 631219,
+      "url": "https://api.github.com/repos/norlab-ulaval/BorealTC/git/blobs/7fa5ed183230641d06dcab1163283067a9f10414",
+      "sha256": "136deb4f94a30284cb27935bf9b51cfe53a1452d625926f08f866a2179d1f5b8"
+    },
+    {
+      "path": "data/borealtc/SNOW/imu_25.csv",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "81987b49e2308859df909ee9705908ee82f54c9a",
+      "size": 654433,
+      "url": "https://api.github.com/repos/norlab-ulaval/BorealTC/git/blobs/81987b49e2308859df909ee9705908ee82f54c9a",
+      "sha256": "2256de68153146318ffc46838de813bee3402030ad42a2ba1c8f323322a92c29"
+    },
+    {
+      "path": "data/borealtc/SNOW/imu_26.csv",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "83e9742aabc2ec111369c9d13ef47ca642c22953",
+      "size": 850969,
+      "url": "https://api.github.com/repos/norlab-ulaval/BorealTC/git/blobs/83e9742aabc2ec111369c9d13ef47ca642c22953",
+      "sha256": "94255171aad050408c63658402c310808644888d3e9d8f41062594afae20feb6"
+    },
+    {
+      "path": "data/borealtc/SNOW/pro_00.csv",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "9c0f999ce53c263289df41d215de38aab123b79f",
+      "size": 9218,
+      "url": "https://api.github.com/repos/norlab-ulaval/BorealTC/git/blobs/9c0f999ce53c263289df41d215de38aab123b79f",
+      "sha256": "6bdb1bde819cfb3bf4b20dd420f9ad6ed0393ab104ad2310c260914bec8b926a"
+    },
+    {
+      "path": "data/borealtc/SNOW/pro_01.csv",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "bb7838b6db405fae14d4408998c70d1357617787",
+      "size": 14272,
+      "url": "https://api.github.com/repos/norlab-ulaval/BorealTC/git/blobs/bb7838b6db405fae14d4408998c70d1357617787",
+      "sha256": "d443c54d2a651c014ebc76f62c97bc33b7c8b1cb94b517c04645bfc3723c9735"
+    },
+    {
+      "path": "data/borealtc/SNOW/pro_02.csv",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "999f152d20d27773259940c3b1c78d22f92c7ea1",
+      "size": 16661,
+      "url": "https://api.github.com/repos/norlab-ulaval/BorealTC/git/blobs/999f152d20d27773259940c3b1c78d22f92c7ea1",
+      "sha256": "2a4a1e637554956302e4ea039e7be7e20aa068faa2dd3b1456b9e95bd0817f9c"
+    },
+    {
+      "path": "data/borealtc/SNOW/pro_03.csv",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "236b90c89b25521eaecca7376144cfdcd4df74e3",
+      "size": 14371,
+      "url": "https://api.github.com/repos/norlab-ulaval/BorealTC/git/blobs/236b90c89b25521eaecca7376144cfdcd4df74e3",
+      "sha256": "5f3fd5a94fc519cea7793a1a72aa9c96912b36fe096f4c1b819d2d311da338b4"
+    },
+    {
+      "path": "data/borealtc/SNOW/pro_04.csv",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "8addee451ce07f7e920a29763945a468bda014bf",
+      "size": 9603,
+      "url": "https://api.github.com/repos/norlab-ulaval/BorealTC/git/blobs/8addee451ce07f7e920a29763945a468bda014bf",
+      "sha256": "ebed98eaf96374c9b29187a3a844cd22fc2b04a801b6cb4071001baf86cf1f75"
+    },
+    {
+      "path": "data/borealtc/SNOW/pro_05.csv",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "ad81a31c423adab1da37b7e915060889acce0c4c",
+      "size": 24169,
+      "url": "https://api.github.com/repos/norlab-ulaval/BorealTC/git/blobs/ad81a31c423adab1da37b7e915060889acce0c4c",
+      "sha256": "efa89ca314842deaf861f8127565576c33ba2c764e1daa95b6d1f60b6e973584"
+    },
+    {
+      "path": "data/borealtc/SNOW/pro_06.csv",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "6cd66b2a2c67e6decd50e44c5a0cb47e6c9d7e0e",
+      "size": 42441,
+      "url": "https://api.github.com/repos/norlab-ulaval/BorealTC/git/blobs/6cd66b2a2c67e6decd50e44c5a0cb47e6c9d7e0e",
+      "sha256": "26fc3c3afd30b0b613f6e2c62d0913bbd23e6d093b189e2bd691589e0c51a7f0"
+    },
+    {
+      "path": "data/borealtc/SNOW/pro_07.csv",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "48401f27f349212e035f7e5df4c4d80b257221ef",
+      "size": 23012,
+      "url": "https://api.github.com/repos/norlab-ulaval/BorealTC/git/blobs/48401f27f349212e035f7e5df4c4d80b257221ef",
+      "sha256": "eddb6836cbd741c6589ba7574758fe650744add2d1417aef6341fe647afef05b"
+    },
+    {
+      "path": "data/borealtc/SNOW/pro_08.csv",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "5bb74bf4d04502ce344e5cbfd8baef3b07bc03bd",
+      "size": 9428,
+      "url": "https://api.github.com/repos/norlab-ulaval/BorealTC/git/blobs/5bb74bf4d04502ce344e5cbfd8baef3b07bc03bd",
+      "sha256": "919c38864c8922b96ef43493acdc9efac83a526927919742b9ff55e964fc7d83"
+    },
+    {
+      "path": "data/borealtc/SNOW/pro_09.csv",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "d37be65260f8f3898cc11f7e61116e64026d6634",
+      "size": 10338,
+      "url": "https://api.github.com/repos/norlab-ulaval/BorealTC/git/blobs/d37be65260f8f3898cc11f7e61116e64026d6634",
+      "sha256": "a8fb7637957e8b465c74401a03810fce68b06f192e14d12d6ba2a6fdc9b3c154"
+    },
+    {
+      "path": "data/borealtc/SNOW/pro_10.csv",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "a5a802ae0dd1215dd937c357ce56163ab9ee6078",
+      "size": 35521,
+      "url": "https://api.github.com/repos/norlab-ulaval/BorealTC/git/blobs/a5a802ae0dd1215dd937c357ce56163ab9ee6078",
+      "sha256": "f6771d5d04f4b1affe8204526d25adeaa0c98c7092155dc758212451ad3497f9"
+    },
+    {
+      "path": "data/borealtc/SNOW/pro_11.csv",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "2ac759c45b956c56895b29c44a4582bd2524c2ee",
+      "size": 39099,
+      "url": "https://api.github.com/repos/norlab-ulaval/BorealTC/git/blobs/2ac759c45b956c56895b29c44a4582bd2524c2ee",
+      "sha256": "c5e6d2628b637b745a01f466cdaa8aaa59f664e0acc09534d880e590113e8969"
+    },
+    {
+      "path": "data/borealtc/SNOW/pro_12.csv",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "3d62d9583b548244a23fc39abaff8291995e5906",
+      "size": 11694,
+      "url": "https://api.github.com/repos/norlab-ulaval/BorealTC/git/blobs/3d62d9583b548244a23fc39abaff8291995e5906",
+      "sha256": "11556707baad5f3b813fb348e8d2e6b7bbfbd404bbb1f570057b620e6c14905f"
+    },
+    {
+      "path": "data/borealtc/SNOW/pro_13.csv",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "8ce08aae75e73aea14f4dcfe3155c98b4787c172",
+      "size": 28587,
+      "url": "https://api.github.com/repos/norlab-ulaval/BorealTC/git/blobs/8ce08aae75e73aea14f4dcfe3155c98b4787c172",
+      "sha256": "372cea2aa1b5c7722b34a454729a73b3ec9eeb100b89ade3ed6d251156980dd5"
+    },
+    {
+      "path": "data/borealtc/SNOW/pro_14.csv",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "05e8c7c6f2c934c0b745d8d3ca18ccdf0e62e846",
+      "size": 37416,
+      "url": "https://api.github.com/repos/norlab-ulaval/BorealTC/git/blobs/05e8c7c6f2c934c0b745d8d3ca18ccdf0e62e846",
+      "sha256": "e524b07c1b6a6da7c48f6c75f5e227defb693001c4b0f499a27f63a92b268f9a"
+    },
+    {
+      "path": "data/borealtc/SNOW/pro_15.csv",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "3f98d5c9e8c8d55c4d3df3bc97fbd75fe3bd1e9e",
+      "size": 39819,
+      "url": "https://api.github.com/repos/norlab-ulaval/BorealTC/git/blobs/3f98d5c9e8c8d55c4d3df3bc97fbd75fe3bd1e9e",
+      "sha256": "d854519c572f0e6b5b0ff42710a33082ca2a676e2101e303047df9bc5a124e22"
+    },
+    {
+      "path": "data/borealtc/SNOW/pro_16.csv",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "3880a97c20f82db52ecfe430d37312991475edc8",
+      "size": 19708,
+      "url": "https://api.github.com/repos/norlab-ulaval/BorealTC/git/blobs/3880a97c20f82db52ecfe430d37312991475edc8",
+      "sha256": "1424ed023e2bd0d4c4b645536f4916e36b017eb2e64dca5a6c7f073c83cecee7"
+    },
+    {
+      "path": "data/borealtc/SNOW/pro_17.csv",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "7c61e0821b1da1fb7573b5f8e4ed1675c9c65ad8",
+      "size": 29458,
+      "url": "https://api.github.com/repos/norlab-ulaval/BorealTC/git/blobs/7c61e0821b1da1fb7573b5f8e4ed1675c9c65ad8",
+      "sha256": "f2b2df4b46e6065df8023e80688b5595ed2c4648b2efa13733f1524a9bf47573"
+    },
+    {
+      "path": "data/borealtc/SNOW/pro_18.csv",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "fe33ee3a742d779c1b551e735f860ec59e97e7b2",
+      "size": 21668,
+      "url": "https://api.github.com/repos/norlab-ulaval/BorealTC/git/blobs/fe33ee3a742d779c1b551e735f860ec59e97e7b2",
+      "sha256": "d7178a37b026010b7315c958bca8974c618ea29c75e983eb0d160a6b1152cd88"
+    },
+    {
+      "path": "data/borealtc/SNOW/pro_19.csv",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "dcfa07b5ff861a60aa854dad0f4bc6301245bfc6",
+      "size": 27669,
+      "url": "https://api.github.com/repos/norlab-ulaval/BorealTC/git/blobs/dcfa07b5ff861a60aa854dad0f4bc6301245bfc6",
+      "sha256": "632f6b47166e94709708bc86b86ed243943b0c7052d4563ed44dfc600c7ec250"
+    },
+    {
+      "path": "data/borealtc/SNOW/pro_20.csv",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "2762eacea5b1e1680f0c6512e45d0507ec285d0a",
+      "size": 21397,
+      "url": "https://api.github.com/repos/norlab-ulaval/BorealTC/git/blobs/2762eacea5b1e1680f0c6512e45d0507ec285d0a",
+      "sha256": "26bd32b614b1bcc031ce3e928ee9fc209607a5474afe918a80493d467c1d48c5"
+    },
+    {
+      "path": "data/borealtc/SNOW/pro_21.csv",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "940b751222a2f22e68dcab2b1f2eaff84c312b52",
+      "size": 23262,
+      "url": "https://api.github.com/repos/norlab-ulaval/BorealTC/git/blobs/940b751222a2f22e68dcab2b1f2eaff84c312b52",
+      "sha256": "7c3beb4e110d43bc1c8ff842e0a3b7cb3e755b99e35d4ef61ae1bfe47a7df2e6"
+    },
+    {
+      "path": "data/borealtc/SNOW/pro_22.csv",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "a5e94abd40c5a62f5a945c0341bccfdc5baf6665",
+      "size": 26312,
+      "url": "https://api.github.com/repos/norlab-ulaval/BorealTC/git/blobs/a5e94abd40c5a62f5a945c0341bccfdc5baf6665",
+      "sha256": "b30174108ae6897e4694c3e6a56dd9b97c003904be8832e0dcbffa6b0e2d2185"
+    },
+    {
+      "path": "data/borealtc/SNOW/pro_23.csv",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "df90d621507c546b97dba2b89143bbb7219f1345",
+      "size": 18592,
+      "url": "https://api.github.com/repos/norlab-ulaval/BorealTC/git/blobs/df90d621507c546b97dba2b89143bbb7219f1345",
+      "sha256": "02555df0b1c306d90923cba19886bd273300d0ce9ebc432c119cbf77537e6423"
+    },
+    {
+      "path": "data/borealtc/SNOW/pro_24.csv",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "08f33be7674d6ddb5c4e777437df267c4cc2e4ba",
+      "size": 22629,
+      "url": "https://api.github.com/repos/norlab-ulaval/BorealTC/git/blobs/08f33be7674d6ddb5c4e777437df267c4cc2e4ba",
+      "sha256": "78d17bedc9d0d3f9ef75a0a8e3d188fd946c8cdd7ba022f36e95c2cc19930c50"
+    },
+    {
+      "path": "data/borealtc/SNOW/pro_25.csv",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "8ff7f0f45816fa698e72770bbce1990f8733e94c",
+      "size": 23320,
+      "url": "https://api.github.com/repos/norlab-ulaval/BorealTC/git/blobs/8ff7f0f45816fa698e72770bbce1990f8733e94c",
+      "sha256": "1e1b2203e4397a8a9dcd02552fa5ede4f07050723c426d9a24a673da424a9597"
+    },
+    {
+      "path": "data/borealtc/SNOW/pro_26.csv",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "57616417fdeabd26f2064c6975e4237a9f3e12f3",
+      "size": 29509,
+      "url": "https://api.github.com/repos/norlab-ulaval/BorealTC/git/blobs/57616417fdeabd26f2064c6975e4237a9f3e12f3",
+      "sha256": "05cb515d4a8cf0dc1ccffe1ee2db9dbd950634c4ed5674691ac0ef9681415b4c"
+    }
+  ]
+}
